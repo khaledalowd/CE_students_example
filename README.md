@@ -2,6 +2,14 @@
 
 ![screenshot](./assets/screenshot.png)
 
+## Objectives
+
+The objectives of this exercise is for you to learn:
+
+- the difference between forking and cloning a repository,
+- stage, commit, and push your changes,
+- create a pull request to merge your changes to the upstream repository.
+
 ## Fork and clone the repository
 
 Fork this repository on GitHub. This will create a copy on your GitHub account that you can edit.
